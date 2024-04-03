@@ -1,4 +1,4 @@
-# Proveably Random Raffle Contracts
+# Proveably Random Lottery Contracts
 
 ## About
 
